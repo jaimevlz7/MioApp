@@ -1,9 +1,9 @@
 # MioApp
-MioApp - Aplicación de MIO-MetroCali
+## MioApp - Aplicación de MIO-MetroCali
 <br>
-Universidad Icesi
+### Universidad Icesi
 <br>
-Curso: Aplicaciones Móviles
+### Curso: Aplicaciones Móviles
 <br>
 Aplicación Móvil para concurso de MetroCali. 
 
